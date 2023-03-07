@@ -15,3 +15,4 @@ Just a simple C++ calculator, it have alot of methods so if you want to do some 
 * Cube Root
 * Logarithm
 * Factorial
+* Bhaskara
